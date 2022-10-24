@@ -55,12 +55,7 @@ const Personal = () => {
       />
       <ListItem
         title='次要能力'
-        meta='设计类 UI绘制'
-        trailing={() => <Ionicons name='ios-chevron-forward' size={20} />}
-      />
-      <ListItem
-        title='其他能力'
-        meta='管理类 经济'
+        meta='管理学类 事务管理'
         trailing={() => <Ionicons name='ios-chevron-forward' size={20} />}
       />
     </View>

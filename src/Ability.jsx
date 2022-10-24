@@ -69,12 +69,13 @@ const Ability = ({ navigation }) => {
 const styles = StyleSheet.create({
   title: {
     marginTop: 50,
-    marginBottom: 60,
+    marginBottom: 40,
     textAlign: 'center',
     fontWeight: '600',
     fontSize: 30,
   },
   subTitle: {
+    marginTop: 30,
     marginLeft: 10,
     marginBottom: 25,
   },

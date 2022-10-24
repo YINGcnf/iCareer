@@ -133,7 +133,7 @@ const App = () => {
     <SafeAreaProvider>
       <NavigationContainer>
         <Stack.Navigator
-          initialRouteName='Ability'
+          initialRouteName='Login'
           screenOptions={{ headerShown: false }}
         >
           <Stack.Screen name='Login' component={Login} />
